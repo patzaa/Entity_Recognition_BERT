@@ -10,4 +10,4 @@
 
 3. I suggest training on an AWS EC2 instance 
 
-4. Serving the model via the ```predict.py```
+4. Serving the model via the ```predict.py``` file
