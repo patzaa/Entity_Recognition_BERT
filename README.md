@@ -6,7 +6,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/patzaa/Entity_Recognition_BERT/blob/master/NER_BERT_training.ipynb) 
 
 
-1. Download the annotated corpus dataset form [Kaggle](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus)
+1. Download the annotated corpus dataset form [Kaggle](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus) inside the dataset folder 
  
  
  
